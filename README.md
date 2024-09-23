@@ -1,1 +1,1 @@
-It`s a very basic gpt that predicts what Shakespear would write based on a txt file with his texts compiled
+It`s a basic gpt using PyTorch that predicts what Shakespear would write based on a txt file with his texts compiled. It is based on the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3. We used autoregressive language modeling framework.
